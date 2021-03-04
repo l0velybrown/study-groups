@@ -21,11 +21,11 @@ Please add your name, preferred pronouns (if any), GitHub username, and (when yo
 - Fan Du / she/her / caifand / https://github.com/carpentries-incubator/citable-software
 - Tim Dennis / he-him / jt14den / facilitator 
 - Alex Casper Cline / he/him / alexcasper
-- 
+- Rhonda Jones/lovelybrown
 - 
 - _Absent apology_: James Foster (see you next week!)
 (add more lines as needed)
-
+_Absent apology_: Rhona Jones (inclement weather power outage)
 ## Roles
 
 **Group Facilitator(s)**: Kate
